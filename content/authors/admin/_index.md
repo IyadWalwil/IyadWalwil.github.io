@@ -3,7 +3,7 @@
 title: Nidham Gazagnadou
 
 # Name pronunciation (optional)
-name_pronunciation: Nidham Gazagnadou
+# name_pronunciation: Nidham Gazagnadou
 
 # Full name (for SEO)
 first_name: Nidham
@@ -29,10 +29,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Federated Learning (personalization for data, model and hardware heterogeneity)
+  - Federated Learning
   - Edge AI
   - Vision Foundation Models
-  - Computer Vision privacy ([https://ai.sony/blog/blog-035/ cf my blog post])
+  - Computer Vision privacy
   - Optimization for Machine Learning
 
 # Education to show in About widget
@@ -48,45 +48,45 @@ education:
       institution: ENSTA Paris
       year: 2018
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+# # Skills
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: database
+#         icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-hiking
+#         icon_pack: fas
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#         icon_pack: fas
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera-retro
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -98,42 +98,37 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/NGazagnadou
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=8GEiHycAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/ngazagna
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/nidham-gazagnadou-b06415a7/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team lead by [https://sites.google.com/view/lingjuan-lyu/home Lingjuan Lyu].
+I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team.
 
-My topics of research encompass 
-- Federated Learning (especially personalized FL in presence of data, model and hardware heterogeneity)
-- Edge AI
-- Vision Foundation Models
-- Computer Vision privacy ([https://ai.sony/blog/blog-035/ cf my blog post])
-- Optimization for Machine Learning
+[cf my blog post](https://ai.sony/blog/blog-035/)
 
 I recently got into *Quantization-Aware Training (QAT) in the Federated Learning context* from both a theoretical in empirical point of view. Feel free to reach out if you want to collaborate!\n
 
 As far as possible, I try to *code efficient and reproducible experiments* through tested open source codes.
-I am contributing to the Python open source package *[https://github.com/facebookresearch/RidgeSketch RidgeSketch]* (developed with FAIR New York) about sketch-and-project methods for the ridge regression problem.
-I also contributed to the Julia suite of stochastic optimization codes *[https://github.com/gowerrobert/StochOpt.jl StochOpt]* and briefly to *[https://github.com/benchopt/benchOpt BenchOpt]*\n\n
+I am contributing to the Python open source package *[RidgeSketch](https://github.com/facebookresearch/RidgeSketch)* (developed with FAIR New York) about sketch-and-project methods for the ridge regression problem.
+I also contributed to the Julia suite of stochastic optimization codes *[StochOpt](https://github.com/gowerrobert/StochOpt.jl)* and briefly to *[BenchOpt](https://github.com/benchopt/benchOpt)*\n\n
 {style="text-align: justify;"}
