@@ -126,9 +126,9 @@ I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning 
 
 [cf my blog post](https://ai.sony/blog/blog-035/)
 
-I recently got into *Quantization-Aware Training (QAT) in the Federated Learning context* from both a theoretical in empirical point of view. Feel free to reach out if you want to collaborate!\n
+I recently got into *Quantization-Aware Training (QAT) in the Federated Learning context* from both a theoretical in empirical point of view. Feel free to reach out if you want to collaborate!
 
 As far as possible, I try to *code efficient and reproducible experiments* through tested open source codes.
 I am contributing to the Python open source package *[RidgeSketch](https://github.com/facebookresearch/RidgeSketch)* (developed with FAIR New York) about sketch-and-project methods for the ridge regression problem.
-I also contributed to the Julia suite of stochastic optimization codes *[StochOpt](https://github.com/gowerrobert/StochOpt.jl)* and briefly to *[BenchOpt](https://github.com/benchopt/benchOpt)*\n\n
+I also contributed to the Julia suite of stochastic optimization codes *[StochOpt](https://github.com/gowerrobert/StochOpt.jl)* and briefly to *[BenchOpt](https://github.com/benchopt/benchOpt)*
 {style="text-align: justify;"}
