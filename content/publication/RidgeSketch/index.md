@@ -1,5 +1,5 @@
 ---
-title: "RidgeSketch: A Fast sketching based solver for large scale ridge regression"
+title: "RidgeSketch - A Fast sketching based solver for large scale ridge regression"
 authors:
 - admin
 - Mark Ibrahim
