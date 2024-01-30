@@ -122,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at [Sony AI](https://ai.sony/) in the Privacy-Preserving Machine Learning team. Check our [our blog post](https://ai.sony/blog/blog-035/) to understand better our activities. 
+I am a research scientist at [Sony AI](https://ai.sony/) in the Privacy-Preserving Machine Learning team. Check our [our blog posts](https://ai.sony/blog/blog-035/) to better understand our activities. 
 Before that, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/).
 
 I try to **code efficient and reproducible experiments** through tested open source codes.
