@@ -12,7 +12,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Work done during internship at Sony AI'
+  - 'Work done during an internship at Sony AI'
   - 'Main supervisor'
   - 
   - 
