@@ -1,13 +1,15 @@
 ---
-title: 'Optimal Mini-Batch and Step Sizes for SAGA'
+title: 'Towards closing the gap between the theory and practice of SVRG'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Othmane Sebbouh
   - admin
+  - Samy Jelassi
+  - Francis Bach
   - Robert M. Gower
-  - Joseph Salmon
 
 # Author notes (optional)
 # author_notes:
@@ -16,7 +18,7 @@ authors:
 #   - 
 #   - 
 
-date: '2019-05-01T00:00:00Z'
+date: '2019-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +30,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICML 2019*
-publication_short: In *ICML 2019*
+publication: In *NeurIPS 2019*
+publication_short: In *NeurIPS 2019*
 
-abstract: "Recently it has been shown that the step sizes of a family of variance reduced gradient methods called the JacSketch methods depend on the expected smoothness constant. In particular, if this expected smoothness constant could be calculated a priori, then one could safely set much larger step sizes which would result in a much faster convergence rate. We fill in this gap, and provide simple closed form expressions for the expected smoothness constant and careful numerical experiments verifying these bounds. Using these bounds, and since the SAGA algorithm is part of this JacSketch family, we suggest a new standard practice for setting the step and mini-batch sizes for SAGA that are competitive with a numerical grid search. Furthermore, we can now show that the total complexity of the SAGA algorithm decreases linearly in the mini-batch size up to a pre-defined value: the optimal mini-batch size. This is a rare result in the stochastic variance reduced literature, only previously shown for the Katyusha algorithm. Finally we conjecture that this is the case for many other stochastic variance reduced methods and that our bounds and analysis of the expected smoothness constant is key to extending these results."
+abstract: Among the very first variance reduced stochastic methods for solving the empirical risk minimization problem was the SVRG method (Johnson & Zhang 2013). SVRG is an inner-outer loop based method, where in the outer loop a reference full gradient is evaluated, after which $m \in \mathbb{N}$ steps of an inner loop are executed where the reference gradient is used to build a variance reduced estimate of the current gradient. The simplicity of the SVRG method and its analysis have led to multiple extensions and variants for even non-convex optimization. We provide a more general analysis of SVRG than had been previously done by using arbitrary sampling, which allows us to analyse virtually all forms of mini-batching through a single theorem. Furthermore, our analysis is focused on more practical variants of SVRG including a new variant of the loopless SVRG (Hofman et al 2015, Kovalev et al 2019, Kulunchakov and Mairal 2019) and a variant of k-SVRG (Raj and Stich 2018) where $m=n$ and where n is the number of data points. Since our setup and analysis reflect what is done in practice, we are able to set the parameters such as the mini-batch size and step size using our theory in such a way that produces a more efficient algorithm in practice, as we show in extensive numerical experiments. 
 
 # Summary. An optional shortened abstract.
 summary:
@@ -46,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1902.00071.pdf'
+url_pdf: 'https://arxiv.org/pdf/1908.02725.pdf'
 url_code: 'https://github.com/gowerrobert/StochOpt.jl'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
