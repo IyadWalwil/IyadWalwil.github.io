@@ -122,7 +122,8 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at [Sony AI](https://ai.sony/) in the Privacy-Preserving Machine Learning team ([cf. our blog post](https://ai.sony/blog/blog-035/)). Before that, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/).
+I am a research scientist at [Sony AI](https://ai.sony/) in the Privacy-Preserving Machine Learning team. Check our [our blog post](https://ai.sony/blog/blog-035/) to understand better our activities. 
+Before that, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/).
 
 I try to **code efficient and reproducible experiments** through tested open source codes.
 I developped the Python open source package **[RidgeSketch](https://github.com/facebookresearch/RidgeSketch)** (with FAIR New York).
