@@ -10,8 +10,8 @@ first_name: Nidham
 last_name: Gazagnadou
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ organizations:
     url: https://ai.sony/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include federated learning, edge AI and computer vision privacy.
 
 # Interests to show in About widget
 interests:
