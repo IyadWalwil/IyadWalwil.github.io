@@ -59,7 +59,7 @@ url_code: 'https://github.com/SonyResearch/FedP3'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Pipeline illustration of our proposed framework FedP3'
+  caption: ''
   focal_point: ''
   preview_only: false
 
