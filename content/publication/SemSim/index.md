@@ -41,7 +41,7 @@ abstract: Hand-crafted image quality metrics, such as PSNR and SSIM, are commonl
 # Summary. An optional shortened abstract.
 summary:
 
-tags: []
+# tags: []
 
 # Display this page in the Featured widget?
 featured: true

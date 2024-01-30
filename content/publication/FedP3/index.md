@@ -37,7 +37,7 @@ abstract: The interest in federated learning has surged in recent research due t
 # Summary. An optional shortened abstract.
 summary: We introduce FedP3, a flexible and privacy-aware federated network pruning framework, addressing model heterogeneity and allowing client-specific personalization.
 
-tags: []
+# tags: []
 
 # Display this page in the Featured widget?
 featured: true
