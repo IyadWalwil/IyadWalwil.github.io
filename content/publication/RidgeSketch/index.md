@@ -46,8 +46,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/1902.00071.pdf'
-url_code: 'https://github.com/gowerrobert/StochOpt.jl'
+url_pdf: 'https://arxiv.org/pdf/2105.05565.pdf'
+url_code: 'https://github.com/facebookresearch/RidgeSketch'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
 # url_project: ''
