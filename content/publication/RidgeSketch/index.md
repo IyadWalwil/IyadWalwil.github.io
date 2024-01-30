@@ -32,7 +32,7 @@ summary:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/pdf/2105.05565.pdf
+url_pdf: 'https://arxiv.org/pdf/2105.05565.pdf'
 url_code: 'https://github.com/facebookresearch/RidgeSketch'
 # url_dataset: ''
 # url_poster: ''
