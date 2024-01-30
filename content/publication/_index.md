@@ -1,9 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
-
-count: 10
-
+  
 # View.
 #   1 = List
 #   2 = Compact
