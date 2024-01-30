@@ -81,9 +81,9 @@ sections:
     id: featured
     content:
       title: Papers
-      # filters:
-      #   folders:
-      #     - publication
+      filters:
+        folders:
+          - publication
       #   featured_only: true
     design:
       columns: '2'
