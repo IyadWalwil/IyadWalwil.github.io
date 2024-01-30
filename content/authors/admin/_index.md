@@ -39,7 +39,7 @@ interests:
 education:
   courses:
     - course: PhD in Applied Mathematics
-      institution: Telecom Paris
+      institution: Télécom Paris
       year: 2021
     - course: Msc in Computer Vision and Machine Learning
       institution: ENS Paris-Saclay
@@ -114,19 +114,19 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team ([cf. our blog post](https://ai.sony/blog/blog-035/)).
-
-I recently got interested by **Quantization-Aware Training (QAT)** in the Federated Learning context from both a theoretical in empirical point of view. Feel free to reach out if you want to collaborate!
+I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team ([cf. our blog post](https://ai.sony/blog/blog-035/)). Previously, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/).
 
 As far as possible, I try to **code efficient and reproducible experiments** through tested open source codes.
 I am contributing to the Python open source package **[RidgeSketch](https://github.com/facebookresearch/RidgeSketch)** (developed with FAIR New York) about sketch-and-project methods for the ridge regression problem.
 I also contributed to the Julia suite of stochastic optimization codes **[StochOpt](https://github.com/gowerrobert/StochOpt.jl)** and briefly to **[BenchOpt](https://github.com/benchopt/benchOpt)**.
 {style="text-align: justify;"}
+
+I recently got interested by **Quantization-Aware Training (QAT)** in the Federated Learning context from both a theoretical in empirical point of view. Feel free to reach out if you want to collaborate!
