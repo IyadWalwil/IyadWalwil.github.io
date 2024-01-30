@@ -1,5 +1,5 @@
 ---
-title: 'Optimal Mini-Batch and Step Sizes for SAGA'
+title: '**RidgeSketch**: A Fast sketching based solver for large scale ridge regression'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
