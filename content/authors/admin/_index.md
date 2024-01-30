@@ -20,9 +20,9 @@ superuser: true
 role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Sony AI - Privacy-Preserving Machine Learning team
-    url: https://ai.sony/
+# organizations:
+#   - name: Sony AI - Privacy-Preserving Machine Learning team
+#     url: https://ai.sony/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include federated learning, edge AI and computer vision privacy.
@@ -30,10 +30,10 @@ bio: My research interests include federated learning, edge AI and computer visi
 # Interests to show in About widget
 interests:
   - Federated Learning
+  - Stochastic Optimization
   - Edge AI
-  - Vision Foundation Models
   - Computer Vision privacy
-  - Optimization for Machine Learning
+  - Vision Foundation Models
 
 # Education to show in About widget
 education:
@@ -122,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team ([cf. our blog post](https://ai.sony/blog/blog-035/)). Before that, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/).
+I am a research scientist at [Sony AI](https://ai.sony/) in the Privacy-Preserving Machine Learning team ([cf. our blog post](https://ai.sony/blog/blog-035/)). Before that, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/).
 
 I try to **code efficient and reproducible experiments** through tested open source codes.
 I developped the Python open source package **[RidgeSketch](https://github.com/facebookresearch/RidgeSketch)** (with FAIR New York).
