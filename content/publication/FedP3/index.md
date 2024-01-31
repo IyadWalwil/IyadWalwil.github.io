@@ -1,5 +1,5 @@
 ---
-title: 'FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity (ICLR 2023)'
+title: 'FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity (ICLR 2024)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
