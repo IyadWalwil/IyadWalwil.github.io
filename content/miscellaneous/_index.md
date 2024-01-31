@@ -2,14 +2,11 @@
 title: Miscellaneous
 summary: This page is dedicated to random things I like and want to share.
 
-sections:
-  - block: markdown
-    id: section-1
-    content:
-      text: This page is dedicated to random things I like and want to share.
-  - image:
-    caption: Picture of the bazaar of Tehran I took in 2015.
-    focal_point: Smart
+date: '2024-01-31T00:00:00Z'
+
+image:
+  caption: Bazaar of Tehran in 2015.
+  focal_point: Smart
 
 ---
 
