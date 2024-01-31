@@ -40,7 +40,7 @@ summary: We introduce FedP3, a flexible and privacy-aware federated network prun
 # tags: []
 
 # Display this page in the Featured widget?
-featured: true
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:
