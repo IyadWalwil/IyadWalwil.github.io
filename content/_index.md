@@ -81,9 +81,9 @@ sections:
     id: featured
     content:
       title: Papers
-      # filters:
-      #   folders:
-      #     - publication
+      filters:
+        folders:
+          - publication
         # featured_only: true
       count: 0 # https://github.com/HugoBlox/hugo-blox-builder/issues/181#issuecomment-755379905
     design:
