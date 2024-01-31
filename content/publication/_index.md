@@ -9,8 +9,6 @@ cms_exclude: true
 #   4 = Citation
 view: 4
 
-content:
-  count: 20
 
 # Optional header image (relative to `static/media/` folder).
 banner:

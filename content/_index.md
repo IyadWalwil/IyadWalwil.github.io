@@ -84,7 +84,8 @@ sections:
       filters:
         folders:
           - publication
-      #   featured_only: true
+        count: 20
+        # featured_only: true
     design:
       columns: '2'
       view: list
