@@ -84,7 +84,7 @@ sections:
       filters:
         folders:
           - publication
-        count: 20
+      count: 0
         # featured_only: true
     design:
       columns: '2'
