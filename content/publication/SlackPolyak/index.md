@@ -1,5 +1,5 @@
 ---
-title: "Cutting some slack for SGD with adaptive Polyak stepsizes"
+title: "Cutting some slack for SGD with adaptive Polyak stepsizes (preprint)"
 
 authors:
   - Robert M Gower

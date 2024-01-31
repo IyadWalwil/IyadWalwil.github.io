@@ -1,5 +1,5 @@
 ---
-title: "On the Hardness of Robustness Transfer: A Perspective from Rademacher Complexity over Symmetric Difference Hypothesis Space"
+title: "On the Hardness of Robustness Transfer: A Perspective from Rademacher Complexity over Symmetric Difference Hypothesis Space (preprint)"
 
 authors:
   - Yuyang Deng

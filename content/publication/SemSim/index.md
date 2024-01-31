@@ -1,5 +1,5 @@
 ---
-title: 'Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?'
+title: 'Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception? (spotlight, NeurIPS 2023)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

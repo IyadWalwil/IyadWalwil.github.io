@@ -1,5 +1,5 @@
 ---
-title: 'RidgeSketch: a fast sketching based solver for large scale ridge regression'
+title: 'RidgeSketch: A Fast Sketching Based Solver for Large Scale Ridge Regression (SIMAX 2022)'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
