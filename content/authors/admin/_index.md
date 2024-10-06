@@ -122,12 +122,11 @@ social:
 highlight_name: true
 ---
 
-I am a research scientist at [Sony AI](https://ai.sony/) in the Privacy-Preserving Machine Learning team. Check our [our blog posts](https://ai.sony/blog/blog-035/) to better understand our activities. 
-Before that, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/).
+I am a research scientist in AI.
+Before that, I was a PhD student at [Télécom Paris](https://www.telecom-paris.fr/), supervised by [Robert M. Gower](https://gowerrobert.github.io/), and then worked at Sony AI in the Privacy-Preserving Machine Learning team.
+<!-- [Sony AI blog posts](https://ai.sony/blog/blog-035/). -->
 
 I try to **code efficient and reproducible experiments** through tested open source codes.
-I developped the Python open source package **[RidgeSketch](https://github.com/facebookresearch/RidgeSketch)** (with FAIR New York).
+I developed the Python open source package **[RidgeSketch](https://github.com/facebookresearch/RidgeSketch)** (with FAIR New York).
 I also contributed to the Julia suite **[StochOpt](https://github.com/gowerrobert/StochOpt.jl)** and briefly to **[BenchOpt](https://github.com/benchopt/benchOpt)**.
 {style="text-align: justify;"}
-
-I recently got interested by **Quantization-Aware Training (QAT)** in the Federated Learning context from both a theoretical in empirical point of view. Feel free to reach out if you want to collaborate!
